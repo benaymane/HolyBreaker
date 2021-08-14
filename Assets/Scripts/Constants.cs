@@ -17,5 +17,5 @@ public class Constants : MonoBehaviour
     public const float BALL_START_Y = 0.64f;
 
     public const float VELOCITY_MIN = 2f;
-    public const float VELOCITY_MAX = 15f;
+    public const float VELOCITY_MAX = 10f;
 }
